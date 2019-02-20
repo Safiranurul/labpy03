@@ -1,4 +1,4 @@
 #latihan03
 
 
-![alt text]1.png
+![alt teks](1.png)
